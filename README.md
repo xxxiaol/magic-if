@@ -27,7 +27,12 @@ Generation results of Codex are in the `codex_output/` folder.
 ## Citation
 Please cite our paper if this repository inspires your work.
 ```
-TBA
+@article{liu2023magic,
+  title={The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code},
+  author={Liu, Xiao and Yin, Da and Zhang, Chen and Feng, Yansong and Zhao, Dongyan},
+  journal={arXiv preprint arXiv:2305.19213},
+  year={2023}
+}
 ```
 
 ## Contact
